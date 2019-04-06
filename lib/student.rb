@@ -1,5 +1,5 @@
 class Student
   def hello
-    "Hey there! I'm so excited to learn stuff.\nHow are you doing today? I'm okay, but I'm kind of tired."
+    "Hey there! I'm so excited to learn stuff."
   end
 end
